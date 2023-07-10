@@ -19,3 +19,7 @@ heading2.innerText = "Web dev is awesome";
 const div2 = document.querySelector("#heading-2");
 
 div2.appendChild(heading2);
+
+
+const div3 = document.querySelector(".unit-copy-wrapper .headline")
+div3.innerText= "Pavithra 15";
