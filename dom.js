@@ -11,15 +11,15 @@
 
 // heading2.innerHTML = "<p>Web dev is awesome </p>";
 
-const heading2 = document.createElement("h2");
+// const heading2 = document.createElement("h2");
 
 
-heading2.innerText = "Web dev is awesome";
+// heading2.innerText = "Web dev is awesome";
 
-const div2 = document.querySelector("#heading-2");
+// const div2 = document.querySelector("#heading-2");
 
-div2.appendChild(heading2);
+// div2.appendChild(heading2);
 
 
-const div3 = document.querySelector(".unit-copy-wrapper .headline")
-div3.innerText= "Pavithra 15";
+// const div3 = document.querySelector(".unit-copy-wrapper .headline")
+// div3.innerText= "Pavithra 15";
