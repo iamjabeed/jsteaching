@@ -1,3 +1,11 @@
 *{
-    background-color: rgb(53, 55, 78);
+    background-color: rgb(48, 48, 50);
+    color: #fff;
+}
+button{
+    padding: .5rem 2rem;
+    background: #a62424;
+    font-size: 1.5rem;
+    /* font-size: 20px; */
+    
 }
