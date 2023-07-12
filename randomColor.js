@@ -19,9 +19,7 @@ const randomHex = () => {
 
 // console.log(randomHex());
 
-function colorGenerate() {
+btn.addEventListener("click", function colorGenerate() {
   container.style.backgroundColor = randomHex();
   generatedCode.textContent = randomHex();
-}
-
-btn.addEventListener("click", colorGenerate);
+});
