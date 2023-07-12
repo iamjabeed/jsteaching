@@ -31,21 +31,21 @@
 
 //? Counter Project
 
-const incBtnEl = document.getElementById("inc");
+// const incBtnEl = document.getElementById("inc");
 
-const decBtnEl = document.getElementById("dec");
+// const decBtnEl = document.getElementById("dec");
 
-const counterEl = document.getElementById("counter-value");
+// const counterEl = document.getElementById("counter-value");
 
-let count = 0;
+// let count = 0;
 
-incBtnEl.addEventListener("click", () => {
-//   count++;
-count = count + 1;
-  counterEl.textContent = count;
-});
+// incBtnEl.addEventListener("click", () => {
+//   //   count++;
+//   count = count + 1;
+//   counterEl.textContent = count;
+// });
 
-decBtnEl.addEventListener("click", () => {
-  count--;
-  counterEl.textContent = count;
-});
+// decBtnEl.addEventListener("click", () => {
+//   count--;
+//   counterEl.textContent = count;
+// });
