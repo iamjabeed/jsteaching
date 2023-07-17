@@ -16,8 +16,9 @@ button {
 #container {
     width: 400px;
     height: 200px;
-    border: 2px solid rgb(201, 255, 4);
+    border: 4px solid rgb(201, 255, 4);
     margin-bottom: 2rem;
+    border-radius: 10px;
 }
 
 #hexa-code {
